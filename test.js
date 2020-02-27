@@ -16,4 +16,4 @@
 
 "use strict";
 
-//platform.console.log('js-encrypt', 'Skip Test');
+platform.console.log('js-encrypt', 'Skip Test');
